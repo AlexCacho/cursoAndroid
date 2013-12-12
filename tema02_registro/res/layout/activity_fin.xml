@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background2" >
+
+    <TextView
+        android:id="@+id/textView1f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp"
+        android:text="@string/usuarioLogueo"
+        android:textSize="20sp" 
+        android:textColor="@color/Blanco"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/textView2f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1f"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp"
+        android:text="@string/etiqVacia"
+        android:textSize="20sp" 
+        android:textColor="@color/Blanco"/>
+
+    <TextView
+        android:id="@+id/textView3f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2f"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
+        android:text="@string/claveLogueo"
+        android:textSize="20sp"
+        android:textColor="@color/Blanco"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView4f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView3f"
+        android:layout_marginTop="30dp"
+        android:text="@string/etiqVacia"
+        android:textSize="20sp"
+        android:textColor="@color/Blanco"/>
+
+    <TextView
+        android:id="@+id/textView5f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView4f"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="@string/titulo_2"
+        android:textSize="20sp" 
+        android:textColor="@color/Blanco"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textView6f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView5f"
+        android:layout_marginTop="30dp"
+        android:text="@string/etiqVacia"
+        android:textSize="20sp"
+        android:textColor="@color/Blanco" />
+
+    <TextView
+        android:id="@+id/textView8f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView7f"
+        android:layout_marginTop="32dp"
+        android:text="@string/etiqVacia"
+        android:textSize="20sp"
+        android:textColor="@color/Blanco" />
+
+    <TextView
+        android:id="@+id/textView7f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView6f"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp"
+        android:text="@string/titulo_3"
+        android:textSize="20sp" 
+        android:textColor="@color/Blanco"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
