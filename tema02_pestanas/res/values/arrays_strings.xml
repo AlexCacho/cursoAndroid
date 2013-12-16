@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="localidades">
+        <item>Alcobendas,Madrid</item>
+        <item>Reus,Barcelona</item>
+        <item>Xativa,Valencia</item>
+        <item>Burgohondo,Avila</item>
+    </string-array>
+    <string-array name="cursos">
+        <item>Java</item>
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Cobol</item>
+        <item>Clipper</item>
+        <item>PL/SQL</item>
+        <item>Oracle 11g</item>
+        <item>PostgreSQL</item>
+        <item>MySQL</item>
+        <item>Python</item>
+        <item>C/C++</item>
+    </string-array>
+
+</resources>

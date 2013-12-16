@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tema02_pestanas</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="str_lbl1">Estás en la pestaña uno</string>
+    <string name="str_lbl2">Estás en la pestaña dos</string>
+    
+        <string name="titulo_1">Login</string>
+    <string name="titulo_2">Localidad</string>
+    <string name="titulo_3">Estudios</string>
+    <string name="titulo_4">Datos introducidos</string>
+    
+    <string name="tituloLogueo">Pantalla logueo</string>
+    <string name="usuarioLogueo">Usuario</string>
+    <string name="claveLogueo">Clave</string>
+    <string name="etiqVacia">------</string>    
+    
+    <string name="etiqBotonEnviar">Enviar</string> 
+    
+    <string name="str_localidad">Localidad</string> 
+    
+    <string name="str_inferiores">Inferiores</string> 
+    <string name="str_superiores">Superiores</string> 
+    
+    <string name="str_acceso_ko">Usuario y/o contraseña incorrectos</string> 
+
+</resources>

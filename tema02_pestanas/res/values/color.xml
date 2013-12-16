@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Azul">#0000FF</color>
+    <color name="Rojo">#FF0000</color>
+    <color name="Verde">#00FF00</color>
+    <color name="Blanco">#FFFFFF</color>
+    <color name="Negro">#000000</color>
+    <color name="Violeta">#EE82EE</color>
+    <color name="Amarillo">#FFFF00</color>
+    <color name="Marron">#5C4033</color>
+    <color name="Gris">#808080</color>
+    <color name="Ceniza">#B2BEB5</color>
+    <color name="AzulBonito">#0099CC</color>
+    <color name="BlancoSemi">#33FFFFFF</color>
+    
+</resources>
